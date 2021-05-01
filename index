@@ -11,9 +11,27 @@
 	<link rel='index' title='Elements BCN - Armarios a medida - Elements Armaris | Armarios a medida - Dormitorios - Vestidores - 	Librerías' href='https://elementsbcn.com/'>
 	<link rel="alternate" hreflang="es" href="<?php echo get_permalink('') ;?>" />
 	<link rel="alternate" hreflang="x-default" href="<?php echo get_permalink('') ;?>" />
+	
+	<meta name="locale" content="es_ES">
+	
 	<meta property="og:type" content="article">
 	<meta property="article_author" content="https://www.facebook.com/L.MENTSBCN">
 	<meta name="publisher" content="ELEMENTS Armaris Barcelona (Elementsbcn.com)" />
+	
+	    <meta name="keywords" content="meta etiquetas seo" lang="es" />
+	
+<meta name="dc.title" content="Título de la web"/>
+<meta name="dc.subject" content="Definición breve de la web"/>
+<meta name="dc.description" content="Descripción de la web"/>
+<meta name="dc.format" content="Texto/html"/>
+<meta name="dc.language" content="es" />
+
+<meta name="dc.title" content="Añadir meta etiquetas SEO a mi web" />
+<meta name="dc.subject" content="Añadir meta etiquetas SEO a mi web" />
+<meta name="dc.description" content="Te explicamos como añadir meta etiquetas SEO para posicionar tu página web de forma natural" />
+<meta name="dc.format" content="Texto/html" />
+<meta name="dc.language" content="es" />
+	
 	<link rel="author" href="humans.txt" />
 	
 	<!-- Chrome, Firefox OS and Opera -->
