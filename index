@@ -14,7 +14,20 @@
 	<meta property="article_author" content="https://www.facebook.com/L.MENTSBCN">
 	<meta name="publisher" content="ELEMENTS Armaris Barcelona (Elementsbcn.com)" />
 	<link rel="author" href="humans.txt" />
+	
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#fe076d">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#fe076d">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#fe076d"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	
+	
   
+		<link rel="preload" as="font" type="font/woff2" crossorigin href="https://salonsoweb.es/web/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2"/>
+	<!--<link rel="preload" as="style" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" onload="this.rel='stylesheet'"/>-->
+	<!--<link rel='preload async' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='all' />-->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<meta name="twitter:label1" content="Written by">
 	<meta name="twitter:data1" content="WPMarmite Team">
