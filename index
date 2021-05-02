@@ -72,6 +72,18 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133176975-1"></script>
 
 
+<!-- Google sitelinks search markup-->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.masterseosem.com/","potentialAction":{"@type":"SearchAction","target":"https://www.masterseosem.com/buscada?searchword={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- End of Google sitelinks search markup-->
+<!-- Google social profiles markup-->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","url":"https://www.masterseosem.com/","name":"masterseosem.com","sameAs":["https://www.facebook.com/masterseosemcom/","https://twitter.com/masterseosem","https://www.linkedin.com/company/masterseosem/","https://plus.google.com/+MasterSEOSEM","https://www.pinterest.es/masterseosem/","https://www.instagram.com/masterseosem/"]}</script>
+<!-- End of Google social profiles markup-->
+<!-- Google logo & contacts markup-->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","url":"https://www.masterseosem.com/","logo":"https://www.masterseosem.com/images/masterseosem-analytics.jpg","contactPoint":[{"@type":"ContactPoint","telephone":"+34-916096098","contactType":"sales","contactOption":[""]}]}</script>
+<!-- End of Google logo & contacts markup-->
+<!-- Google breadcrumb markup-->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.masterseosem.com/","name":"Inicio"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.masterseosem.com/profesor-de-master-google-analytics-seo-y-sem","name":"Profesor"}}]}</script>
+<!-- End of Google breadcrumb markup-->
 
 
 <link href="https://moz.com" rel="home">
