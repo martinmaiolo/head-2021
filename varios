@@ -1,0 +1,25 @@
+Recommended PHP configuration limits
+max_execution_time = 3000;
+memory_limit = 128M;
+post_max_size = 64M;
+upload_max_filesize = 64M;
+max_input_time = 180;
+
+#css​-id {transform: rotate(-90deg);}
+
+https://massviajeros.com/wp-content/plugins/tutor/includes/
+
+<meta itemprop="name" content="Cappen Digital Agency | Works">
+<meta itemprop="description" content="Cappen is a digital production company. We specialize in web and mobile app development, digital marketing and social media.">
+<meta itemprop="image" content="https://www.cappen.com/img/marcas/cappen.jpg">
+<meta name="classification" content="business">
+
+// Esto carga la funci贸n anterior en la p谩gina de inicio de sesi贸n
+add_action ( 'login_enqueue_scripts' , 'my_custom_login_stylesheet' );
+
+if ( strpos( $_SERVER['HTTP_USER_AGENT'], 'Googlebot' ) !== false)
+{
+$email_address = 'martin.maiolo@gmail.com';
+
+mail($email_address, 'Alerta de Googlebot', 'Google ha visitado tu blog:' .$_SERVER['REQUEST_URI']);
+}
