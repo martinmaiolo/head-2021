@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="de">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
+      <meta http-equiv="x-dns-prefetch-control" content="on">
+      <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+      <meta name="description" content="Designer in Action ist ein Design Portal für Designer mit News zu Design, Kreativwirtschaft, Typografie, Papier, Fotografie etc. - mit Terminen, Tipps, Tricks, Tutorials, Bücher, Fonts und Downloads" />
+      <link rel="canonical" href="https://www.designerinaction.de" />
+      <meta property="og:locale" content="de_DE" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Designer in Action - Design Portal für Designer und Kreative" />
+      <meta property="og:description" content="Designer in Action ist ein Design Portal für Designer mit News zu Design, Kreativwirtschaft, Typografie, Papier, Fotografie etc. - mit Terminen, Tipps, Tricks, Tutorials, Bücher, Fonts und Downloads" />
+      <meta property="og:url" content="https://www.designerinaction.de" />
+      <meta property="og:site_name" content="Designer in Action" />
+      <meta property="article:publisher" content="https://www.facebook.com/designerinaction" />
+      <meta property="article:modified_time" content="2021-05-30T12:50:17+00:00" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@designernews" />
+      <link rel='dns-prefetch' href='//www.designerinaction.de' />
+      <link rel="https://api.w.org/" href="https://www.designerinaction.de/wp-json/" />
+      <link rel="alternate" type="application/json" href="https://www.designerinaction.de/wp-json/wp/v2/pages/5" />
+      <script>var ms_grabbing_curosr = 'https://www.designerinaction.de/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://www.designerinaction.de/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script> 
+      <meta name="generator" content="MasterSlider 3.7.8 - Responsive Touch Image Slider | avt.li/msf" />
+      <title>Designer in Action - Design Portal für Designer und Kreative</title>
+      <meta property="og:caption" content="Designer in Action &#8211; Design Portal für Designer und Kreative" />
+      <meta property="og:image" content="https://www.designerinaction.de/wp-content/themes/dia/gfx/dia1.jpg" />
+      <meta property="og:image" content="https://www.designerinaction.de/wp-content/themes/dia/gfx/dia2.jpg" />
+      <meta property="og:image" content="https://www.designerinaction.de/wp-content/themes/dia/gfx/dia3.jpg" />
+      <meta name="twitter:image:src" content="https://www.designerinaction.de/wp-content/themes/dia/gfx/dia1.jpg" />
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://feeds.feedburner.com/designerinaction" />
+      <link rel="shortcut icon" href="https://www.designerinaction.de/wp-content/themes/dia/gfx/favicon.ico">
+      <link rel="icon" href="https://www.designerinaction.de/wp-content/themes/dia/gfx/favicon.png">
+      <link href="https://www.designerinaction.de/wp-content/cache/autoptimize/css/autoptimize_single_5d9c5664ae49e2554272020cff813523.css" rel="stylesheet">
+      <!--[if lt IE 9]>
+      <link rel="stylesheet" href="/wp-content/themes/dia/js/ie.js">
+      <script src="/wp-content/themes/dia/js/html5shiv.js"></script> <![endif]-->
+      <link rel="dns-prefetch" href="https://ajax.googleapis.com" />
+      <script type="application/ld+json">{
+         "@context": "http://schema.org",
+         "@type": "WebSite",
+         "name": "Designer in Action",
+         "url": "https://www.designerinaction.de",
+         "image": "https://www.designerinaction.de/wp-content/themes/dia/gfx/designer-in-action.png",
+         "sameAs": ["https://www.facebook.com/designerinaction", "https://twitter.com/designernews"],
+         "potentialAction": {
+         "@type": "SearchAction",
+         "target": "https://www.designerinaction.de/index.php?s={search_term}",
+         "query-input": "required name=search_term"
+         }
+         }
+      </script> <script>// if (document.cookie.indexOf("hidecookiedeclaration" + '=1') > -1) {
+         if (document.cookie.indexOf("hidecookiedeclaration" + '=2') == -1) {
+         var script = document.createElement('script'),
+         scripts = document.getElementsByTagName('script')[0];
+         script.src = "https://www.googletagmanager.com/gtag/js?id=UA-264576-1";
+         scripts.parentNode.insertBefore(script, scripts);
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         gtag('config', 'UA-264576-1', { 'anonymize_ip': true });
+         
+         }
+      </script> 
