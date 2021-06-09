@@ -1,0 +1,13 @@
+<script type="text/javascript">
+    function BrowserDetection() {
+
+    //Check if browser is Safari, if it is, hide the <video> tag, otherwise hide the <img> tag
+    if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
+        document.getElementById('video-tag').style.display= "none";
+    } else {
+        document.getElementById('img-tag').style.display= "none";
+    }               
+
+    //And run the script. Note that the script tag needs to be run after HTML so where you place it is important. 
+    BrowserDetection();
+</script>
