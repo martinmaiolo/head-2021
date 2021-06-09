@@ -1,0 +1,58 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+ 
+        var ua = navigator.userAgent;
+        var msie = false;
+        var ff = false;
+        var chrome = false;
+ 
+        //Javascript Browser Detection - Internet Explorer
+        if (/MSIE (\d+\.\d+);/.test(ua)) //test for MSIE x.x; True or False
+        {
+            var msie = (/MSIE (\d+\.\d+);/.test(ua)); //True or False
+            var ieversion = new Number(RegExp.$1); //gets browser version
+            alert("ie: " + msie + ' version:' + ieversion);
+        }
+ 
+        //Javascript Browser Detection - FireFox
+        if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.ua))//test for Firefox/x.x or Firefox x.x
+        {
+            var ff = (/Firefox[\/\s](\d+\.\d+)/.test(navigator.ua)); //True or False
+            var ffversion = new Number(RegExp.$1) //gets browser version
+            alert("FF: " + ff + ' version:' + ieversion);
+        }
+ 
+        //Javascript Browser Detection - Chrome
+        if (ua.lastIndexOf('Chrome/') > 0) {
+        document.getElementById('video-tag').style.display= "none";
+    } else {
+        document.getElementById('img-tag').style.display= "none";
+    }       
+ 
+        //Javascript Browser Detection - Safari
+        if (ua.lastIndexOf('Safari/') > 0) {
+            var version = ua.substr(ua.lastIndexOf('Safari/') + 7, 2);
+            alert("Safari " + version);
+        }
+ 
+        //Javascript Browser Detection - Android
+        if (ua.indexOf("Android") >= 0) {
+            var androidversion = parseFloat(ua.slice(ua.indexOf("Android") + 8));
+            if (androidversion < 2.3) {
+                // do whatever
+                alert("This older version of Android has some issues with CSS");
+            }
+        }
+ 
+        //Javascript Browser Detection - Mobile
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(ua)) {
+ 
+            // Check if the orientation has changed 90 degrees or -90 degrees... or 0
+            window.addEventListener("orientationchange", function () {
+                alert(window.orientation);
+            });
+        }
+ 
+    });
+</script>
