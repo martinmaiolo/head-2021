@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="es" class="no-js" itemscope itemtype="https://schema.org/WebPage">
+    <head>
+        <meta charset="utf-8">
+        <title>dteam cloud services - Desarrollo Web | Agencia en Mar del Plata</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Diego Gianatiempo / Diego Plencovich">
+        <meta name="copyright" content="Plencovich / Gianatiempo">
+        <meta name="description" content="Una empresa de Desarrollo Web general con especialidad en Tiendas Online y otros servicios. Ubicados físicamente en Buenos Aires y Mar del Plata.">
+        <meta name="keywords" content="tiendanube, diseño web mar del plata, diseño web en mar del plata, agencia diseño web, agencia diseño web mar del plata, páginas web mar del plata, diseño web empresas, diseño web empresas mar del plata, precios diseño web, precio diseño web mar del plata, dteam, ingeniería web, diseño web, páginas web, mar del plata, desarrollo web, programación web, desarrollo web en mar del plata, programación web mar del plata, marketing digital, publicidad en facebook, publicidad en google, hosting en mar del plata, ssl en mar del plata, programador web mar del plata.">
+        <meta name="theme-color" content="#058ed9">
+        <meta name="country" content="Argentina"/>
+        <meta name="geo.country" content="AR"/>
+        <meta name="robots" content="all"/>
+        <meta name="googlebot" content="index,follow"/>
+        <meta name="google" content="notranslate"/>
+
+        <link rel="canonical" href="https://dteam.cloud" />
+        <meta name="revisit" content="7 days" />
+        <meta name="revisit-after" content="7 days" />
+
+        <meta name="ICBM" content="-37.9713764,-57.5776464" />
+        <meta name="geo.position" content="-37.9713764;-57.5776464" />
+        <meta name="geo.placename" content="French 5975, Mar del Plata, Argentina" />
+        <meta name="geo.region" content="AR-B" />
+        <meta name="geo.placename" content="Mar del Plata" />
+        <meta name="rating" content="General" />
+        <meta name="clasification" content="web design, internet, software, web developer" />
+
+        <meta itemprop="name" content="dteam cloud services - Desarrollo Web | Agencia en Mar del Plata">
+        <meta itemprop="description" content="Una empresa de Desarrollo Web general con especialidad en Tiendas Online y otros servicios. Ubicados físicamente en Buenos Aires y Mar del Plata.">
+        <meta itemprop="image" content="https://dteam.cloud/assets/img/logo-inverse.png">
+
+        <meta name="dcterms.Identifier" content="https://dteam.cloud/" />
+        <meta name="dcterms.Format" content="text/html" />
+        <meta name="dcterms.Relation" content="dteam" />
+        <meta name="dcterms.Language" content="es" />
+        <meta name="dcterms.Publisher" content="dteam" />
+        <meta name="dcterms.Type" content="text/html" />
+        <meta name="dcterms.Coverage" content="https://dteam.cloud/" />
+        <meta name="dcterms.Rights" content="Copyright &copy;2018 dteam." />
+        <meta name="dcterms.Title" content="dteam | Desarrollo de Páginas Webs en Mar del Plata" />
+        <meta name="dcterms.Subject" content="desarrollo web" />
+        <meta name="dcterms.Contributor" content="dteam" />
+        <meta name="dcterms.Date" content="2018-04-10" />
+        <meta name="dcterms.Description" content="Una empresa de Desarrollo Web general con especialidad en Tiendas Online y otros servicios. Ubicados físicamente en Buenos Aires y Mar del Plata." />
+        <meta name="dcterms.Creator" content="dteam" />
+
+        <meta property="fb:app_id" content="1874312129534401" />
+        <meta property="og:title" content="dteam cloud services - Desarrollo Web | Agencia en Mar del Plata" />
+        <meta property="og:site_name" content="dteam cloud services - Desarrollo Web | Agencia en Mar del Plata" />
+        <meta property="og:description" content="Una empresa de Desarrollo Web general con especialidad en Tiendas Online y otros servicios. Ubicados físicamente en Buenos Aires y Mar del Plata." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://dteam.cloud/" />
+        <meta property="og:image" content="https://dteam.cloud/assets/img/logo-inverse.png" />
+        <meta property="og:image:url" content="https://dteam.cloud/assets/img/logo-inverse.png" />
+        <meta property="og:image:secure_url" content="https://dteam.cloud/assets/img/logo-inverse.png" />
+        <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="200" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:locale:alternate" content="es_LA" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content="@dTeamCloud" />
+        <meta name="twitter:site" content="@dTeamCloud" />
+        <meta name="twitter:title" content="dteam cloud services - Desarrollo Web | Agencia en Mar del Plata" />
+        <meta name="twitter:description" content="Una empresa de Desarrollo Web general con especialidad en Tiendas Online y otros servicios. Ubicados físicamente en Buenos Aires y Mar del Plata." />
+        <meta name="twitter:image" content="https://dteam.cloud/assets/img/logo-inverse.png" />
+        <meta name="twitter:image:width" content="200" />
+        <meta name="twitter:image:height" content="200" />
+
+        <link rel="shortcut icon" href="/assets/img/favicon.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon-retina-ipad.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon-retina-iphone.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon-standard-ipad.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon-standard-iphone.png">
+
+        <meta name="msapplication-tap-highlight" content="no">
+
+        <link rel="manifest" href="manifest.json">
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="dteam">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="apple-mobile-web-app-title" content="dteam">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#058ed9">
+
+        <!-- Tile icon for Win8 -->
+        <!-- <meta name="msapplication-TileColor" content="#058ed9">
+        <meta name="msapplication-navbutton-color" content="#058ed9"> -->
+
+        <link href="/assets/css/bundle-1551694638828.css" rel="stylesheet">
+
+
+        <!--[if lt IE 9]>
+            <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="//www.googletagmanager.com/gtag/js?id=UA-69106667-4"></script>
+        <script>
+            if (typeof ga == 'function' || navigator.userAgent.indexOf("Speed Insights") == -1) {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'UA-69106667-4');
+            }
+        </script>
+    </head>
