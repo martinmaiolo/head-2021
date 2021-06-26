@@ -14,3 +14,52 @@
 </head>
 
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-26ddeab7fa5f90b6c8cb3-min.en-US.js" ></script>
+
+
+
+<meta name="fb_admins_meta_tag" content="orvexlogistics"/>
+
+  <meta property="fb:admins" content="orvexlogistics"/>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-69526831-1"></script>
+      <meta name="viewport" content="width=device-width"/>
+      <meta charSet="utf-8"/>
+      <title>Alex MacArthur // Web Developer in Nashville</title>
+      <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/>
+      <link rel="manifest" href="/favicon/site.webmanifest"/>
+      <link rel="shortcut icon" href="/favicon/favicon.ico"/>
+      <meta name="msapplication-TileColor" content="#000000"/>
+      <meta name="msapplication-config" content="/favicon/browserconfig.xml"/>
+      <meta name="theme-color" content="#000"/>
+      <link rel="alternate" type="application/rss+xml" href="/feed.xml"/>
+      <meta name="description" content="I&#x27;m Alex MacArthur, a web developer in Nashville-ish, TN."/>
+      <script type="application/ld+json">[{&quot;@context&quot;:&quot;http://schema.org&quot;,&quot;@type&quot;:&quot;WebSite&quot;,&quot;url&quot;:&quot;https://macarthur.me&quot;,&quot;name&quot;:&quot;Alex MacArthur // Web Developer in Nashville&quot;,&quot;alternateName&quot;:&quot;Alex MacArthur&quot;}]</script>
+      <meta property="og:url" content="https://macarthur.me"/>
+      <meta property="og:title" content="Alex MacArthur // Web Developer in Nashville"/>
+      <meta property="og:description" content="I&#x27;m Alex MacArthur, a web developer in Nashville-ish, TN."/>
+      <meta property="og:image" content="https://macarthur.me/open-graph.jpg"/>
+      <meta property="fb:admins" content="502371334"/>
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:creator" content="@amacarthur"/>
+      <meta name="twitter:title" content="Alex MacArthur // Web Developer in Nashville"/>
+      <meta name="twitter:description" content="I&#x27;m Alex MacArthur, a web developer in Nashville-ish, TN."/>
+      <meta name="twitter:image" content="https://macarthur.me/open-graph.jpg"/>
+      <meta name="next-head-count" content="24"/>
+      <link rel="preload" href="/_next/static/css/846ead00dd4e29ccddb3.css" as="style"/>
+      <link rel="stylesheet" href="/_next/static/css/846ead00dd4e29ccddb3.css" data-n-g=""/>
+      <noscript data-n-css=""></noscript>
+      <link rel="preload" href="/_next/static/chunks/webpack-1d8564d2d19a2a5ef479.js" as="script"/>
+      <link rel="preload" href="/_next/static/chunks/framework-92300432a1172ef1338b.js" as="script"/>
+      <link rel="preload" href="/_next/static/chunks/main-59d6669a0316f5adc615.js" as="script"/>
+      <link rel="preload" href="/_next/static/chunks/pages/_app-585d55409f59f01de0d0.js" as="script"/>
+      <link rel="preload" href="/_next/static/chunks/475-9b1d448a2f78ba0a655a.js" as="script"/>
+      <link rel="preload" href="/_next/static/chunks/pages/index-b0b29cee48e1ed613ada.js" as="script"/>
+   </head>
